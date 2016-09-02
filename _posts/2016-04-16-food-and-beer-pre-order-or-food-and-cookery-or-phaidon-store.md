@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-29T13:38:01.795Z'
+datePublished: '2016-08-31T12:30:06.164Z'
 sourcePath: >-
   _posts/2016-04-16-food-and-beer-pre-order-or-food-and-cookery-or-phaidon-store.md
 inFeed: true
@@ -18,25 +18,19 @@ keywords:
   - noma
 related: []
 author: []
-dateModified: '2016-08-29T13:38:01.368Z'
-title: Food & Beer (Pre-order) | Food & Cookery | Phaidon Store
+via: {}
+dateModified: '2016-08-31T12:30:05.896Z'
+title: ''
 app_links: []
-publisher:
-  url: 'http://www.phaidon.com'
-  name: Phaidon
-  favicon: 'http://www.phaidon.com/favicon.ico'
-  domain: www.phaidon.com
-description: >-
-  The debut book by Danish gypsy brewer Jeppe Jarnit-Bjergsø of the bar Tørst,
-  and Canadian chef Daniel Burns of the Michelin-starred restaurant Luksus-both
-  in a shared space in Greenpoint, Brooklyn where they elevate beer to the level
-  of wine in fine dining.
+publisher: {}
+description: ''
 inLanguage: en
 inNav: false
-via: {}
 starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Food &amp; Beer (Pre-order) | Food &amp; Cookery | Phaidon Store</h1><p>The debut book by Danish gypsy brewer Jeppe Jarnit-Bjergsø of the bar Tørst, and Canadian chef Daniel Burns of the Michelin-starred restaurant Luksus-both in a shared space in Greenpoint, Brooklyn where they elevate beer to the level of wine in fine dining.</p><img src="http://www.phaidon.com/resource/9780714871059-620-new1.jpg" /></article>
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/34dfb3cd-a680-4e26-bfb0-530a9d6851cb.jpg)
+
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/31575c7cfa1e804906592cd13d57025c9b5bcd4a.jpg" /><h1>Food &amp; Beer (Pre-order) | Food &amp; Cookery | Phaidon Store</h1><p>The debut book by Danish gypsy brewer Jeppe Jarnit-Bjergsø of the bar Tørst, and Canadian chef Daniel Burns of the Michelin-starred restaurant Luksus-both in a shared space in Greenpoint, Brooklyn where they elevate beer to the level of wine in fine dining.</p></article>
